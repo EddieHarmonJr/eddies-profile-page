@@ -122,6 +122,9 @@ ul.skills {
 .bulletpoints:hover {
   background-color: #ff99ff;
 }
+.hobby-image {
+  max-width: 400px;
+}
 footer {
   width: 100%;
   min-height: 30px;
